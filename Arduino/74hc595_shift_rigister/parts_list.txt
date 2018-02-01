@@ -1,0 +1,2 @@
+220 ohm resistor *8
+0.1 uf cap for latchPin

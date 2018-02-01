@@ -1,0 +1,36 @@
+<<<<<<<<<<<<<< ALL THE ADJECTIVE WORDS
+pink
+giant
+flower
+constant
+nature
+healthy
+boring
+nobody
+bad
+free
+windy
+static
+long
+literal
+green
+open
+happy
+<<<<<<<<<<<<<< FOLLOWING ARE TOP 20
+bad
+windy
+happy
+pink
+giant
+flower
+constant
+nature
+healthy
+boring
+nobody
+free
+static
+long
+literal
+green
+open
